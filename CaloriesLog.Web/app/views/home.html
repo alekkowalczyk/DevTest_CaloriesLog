@@ -1,0 +1,42 @@
+﻿<div class="jumbotron">
+    <div class="container">
+        <div class="page-header text-center">
+            <h1>Calories Logger</h1>
+        </div>
+        <p>A Single Page Application for loging the calories eaten on each meal. This application uses ASP.NET Web API as the back end, and AngularJS as the front end.</p>
+    </div>
+</div>
+<div class="row" data-ng-hide="authentication.isAuth">
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+    <div class="col-md-4">
+        <h2>Login</h2>
+        <p class="text-primary">If you have an account, please use the button below.</p>
+        <p><a class="btn btn-info" href="#/login" role="button">Login &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Sign Up</h2>
+        <p class="text-primary">Use the button below to create an account.</p>
+        <p><a class="btn btn-info" href="#/signup" role="button">Sign Up &raquo;</a></p>
+    </div>
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+</div>
+<div class="row" data-ng-hide="!authentication.isAuth">
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+    <div class="col-md-4">
+        <h2>Meals</h2>
+        <p class="text-primary">Show your logged meals.</p>
+        <p><a class="btn btn-info" href="#/meals" role="button">meals &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        &nbsp;
+    </div>
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+</div>

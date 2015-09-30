@@ -1,0 +1,10 @@
+C:\tmp\CaloriesLog\CaloriesLog.Web\bin\CalorieLog.Web.dll.config
+C:\tmp\CaloriesLog\CaloriesLog.Web\bin\CalorieLog.Web.dll
+C:\tmp\CaloriesLog\CaloriesLog.Web\bin\CalorieLog.Web.pdb
+C:\tmp\CaloriesLog\CaloriesLog.Web\obj\Debug\CalorieLog.Web.dll
+C:\tmp\CaloriesLog\CaloriesLog.Web\obj\Debug\CalorieLog.Web.pdb
+C:\!a7Project\DevTest_CaloriesLog2\CaloriesLog.Web\bin\CalorieLog.Web.dll.config
+C:\!a7Project\DevTest_CaloriesLog2\CaloriesLog.Web\bin\CalorieLog.Web.dll
+C:\!a7Project\DevTest_CaloriesLog2\CaloriesLog.Web\bin\CalorieLog.Web.pdb
+C:\!a7Project\DevTest_CaloriesLog2\CaloriesLog.Web\obj\Debug\CalorieLog.Web.dll
+C:\!a7Project\DevTest_CaloriesLog2\CaloriesLog.Web\obj\Debug\CalorieLog.Web.pdb
